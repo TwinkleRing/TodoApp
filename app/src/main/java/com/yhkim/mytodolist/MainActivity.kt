@@ -137,17 +137,3 @@ class MainViewModel: ViewModel() {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
