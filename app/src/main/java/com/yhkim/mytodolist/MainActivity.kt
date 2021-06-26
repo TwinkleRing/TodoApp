@@ -121,7 +121,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
 }
 
 data class Todo(
@@ -177,7 +176,6 @@ class TodoAdapter(private var dataSet: List<DocumentSnapshot>,
         dataSet = newData
         notifyDataSetChanged()
     }
-
 }
 
 
@@ -221,7 +219,6 @@ class MainViewModel: ViewModel() {
 //                    todoLiveData.value = data
 //
 //                }
-
         }
     }
 
@@ -249,7 +246,6 @@ class MainViewModel: ViewModel() {
 
         //todo.isDone = !todo.isDone
         //todoLiveData.value = data
-
 
     }
 }
