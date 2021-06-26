@@ -13,4 +13,4 @@ TodoList Application
 ### 3. 6월 26일
 #### Cloud FireStore로 실시간 데이터베이스 연동 구현
 
-- [FireStore](https://firebase.google.com/docs/firestore/quickstart?hl=ko)
+- [FireStore](https://firebase.google.com/docs/firestore/quickstart?hl=ko)의 데이터베이스와 연동, 할 일 추가, 삭제, 갱신 기능 추가
